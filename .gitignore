@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# ML / YOLO
+*.pt
+*.pth
+runs/
+weights/
+*.npy
+*.cache
+
+# Datasets (large files)
+data/
+wheat_dataset/
+
+# OS
+.DS_Store
