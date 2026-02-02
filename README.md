@@ -17,7 +17,3 @@ The project is inspired by the [Global Wheat Detection competition on Kaggle](ht
 **Training curves (fine-tuning)** — precision, recall, mAP@50, and mAP@50-95 over epochs for the YOLO11 fine-tuned model on the wheat dataset.
 
 ![Fine-tuning curves](docs/fine_tuning.png)
-
----
-
-A longer, step-by-step description of what was done and why (in **Croatian**) is in [seminar.md](seminar.md).
